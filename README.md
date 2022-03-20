@@ -22,3 +22,5 @@ nvim
 * Ctrl + t # Open/Close tab
 * Ctrl + s # Save changes
 * Ctrl + q # Quit
+
+- [x] Autocomplete syntax
