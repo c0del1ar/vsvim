@@ -19,6 +19,6 @@ nvim
 ```
 
 ### Basic Usage
-• Ctrl + t # Open/Close tab
-• Ctrl + s # Save changes
-• Ctrl + q # Quit
+* Ctrl + t # Open/Close tab
+* Ctrl + s # Save changes
+* Ctrl + q # Quit
