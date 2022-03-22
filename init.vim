@@ -18,6 +18,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'HerringtonDarkholme/yats.vim' " TS Syntax
 Plug 'preservim/tagbar'
 Plug 'ap/vim-css-color'
+Plug 'github/copilot'
 
 " Initialize plugin system
 call plug#end()
